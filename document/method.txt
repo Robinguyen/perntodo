@@ -1,0 +1,5 @@
+get all                                 GET             /api/v1/product
+get one                                 GET             /api/v1/product/:id
+post create                             POST            /api/v1/product
+update                                  PUT             /api/v1/product/:id
+delete                                  DELETE          /api/v1/product/:id
